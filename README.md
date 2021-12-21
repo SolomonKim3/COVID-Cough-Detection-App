@@ -1,5 +1,7 @@
 # Virufy Teachable Machine Cough Classifier
 
+Link to site: https://stanford-cs329s.github.io/reports/virufy-on-device-detection-for-covid-19/
+
 ### DISCLAIMER: This project is highly experimental. At the moment this model is not an accurate predictor of whether you have COVID. Please seek medical help if you feel unwell or have flu-like symptoms.
 
 A simple web app that uses a Teachable Machine-trained model to classify presence/absence of COVID from a cough recording. 
